@@ -1,1 +1,2 @@
-print('Hello, Team members!')
+x = "Hello, Team members!"
+print(x)
